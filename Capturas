@@ -1,0 +1,4 @@
+Para Modificar los ficheros correspondientes y realiza 3 commits para realizar cada una de las tareas que se indican en los issues. El mensaje del commit debe hacer que se cierren los issues correspondientes de manera automática.
+1.Voy a lo code y abro cada archivo para hacer los cambios
+2. Una vez abierto, hago click en el lápiz para que se abra el fichero y pueda hacer los cambios, Escribo los cambio y le doy a commit changes
+3. En la pantalla emergente escribo close # <nombre del fichero>, para que queden guardados los cambios y se cierre la ventana
